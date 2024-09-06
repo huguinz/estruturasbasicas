@@ -1,0 +1,21 @@
+body {
+    background-color: #ffffff;
+}
+h1{
+    background-color: aqua;
+    padding: 16px;
+    font-weight: 900;
+    text-align: center;
+}
+h2{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    text-align: center;
+}
+img {
+    width: 300px;
+    display: block;
+    margin: auto;
+    border: 8px solid black;
+}
